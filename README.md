@@ -12,4 +12,4 @@ With a digital input, the setting for smart grid can be set:
 
 All settings are saved in separated files on ESP32 (SPIFFS), when restarting the ESP32, settings are not lost.
 
-![image](https://user-images.githubusercontent.com/56886296/198827664-eb10d15b-9697-4ae7-b00c-6b64ae5a8220.png)
+![image](https://user-images.githubusercontent.com/56886296/198836998-3acc7649-020d-44a2-9c0b-ff4c7f3e2f0e.png)
